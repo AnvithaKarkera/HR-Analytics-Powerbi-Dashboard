@@ -22,7 +22,7 @@ The dashboard provides a comprehensive and dynamic view of workforce data, desig
 ## Dashboard Screenshots
 
 ### Workforce Overview  
-![Home Page](images/dashboard_overview.png)
+![Home Page]([images/dashboard_overview.png](https://github.com/AnvithaKarkera/HR-Analytics-Powerbi-Dashboard/blob/37658ee48b5f455d2838741e9989ad6ba29d729a/Screenshot%202025-05-25%20194935.png))
 
 ### Performance Rating Segmentation  
 ![Action page](images/performance_segmentation.png)
