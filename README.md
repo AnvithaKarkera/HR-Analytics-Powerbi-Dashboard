@@ -5,7 +5,7 @@ This project features an interactive HR Analytics Dashboard developed entirely i
 The dashboard provides a comprehensive and dynamic view of workforce data, designed with clarity and interactivity in mind to support practical HR needs.
 https://github.com/AnvithaKarkera/HR-Analytics-Powerbi-Dashboard/blob/38e5d88b3d0417a4d1ab33efec3b44d78e0b921c/Screenshot%202025-05-25%20194935.png
 https://github.com/AnvithaKarkera/HR-Analytics-Powerbi-Dashboard/blob/5d1029ecc25432cdff75d1dfab49450c025db54a/Screenshot%202025-05-25%20195005.png
-
+https://github.com/AnvithaKarkera/HR-Analytics-Powerbi-Dashboard/blob/d220167067fe5f0810be519b0157d7a0a2f0f535/Screenshot%202025-05-25%20195033.png
 
 ##Features
 Workforce Overview: A structured, high-level view of the entire workforce with dynamic filtering options.
