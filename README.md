@@ -25,12 +25,12 @@ The dashboard provides a comprehensive and dynamic view of workforce data, desig
 ![Home Page] ![image](https://github.com/user-attachments/assets/da89ffb0-c47c-4200-9af5-e1a5d1de3fda)
 
 
-### Performance Rating Segmentation  
+### Promotion & Retirement Identification  
 ![Action page]![image](https://github.com/user-attachments/assets/ac6deea4-5e0b-4aa8-a362-a95c82353982)
 
+### Performance Rating Segmentation   
+![Detail page]![image](https://github.com/user-attachments/assets/5590a7f4-f72e-4260-8a5e-d27ca48c25b4)
 
-### Promotion & Retirement Identification  
-![Detail page](images/promotion_retirement.png)
 
 ---
 
