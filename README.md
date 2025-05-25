@@ -25,7 +25,8 @@ The dashboard provides a comprehensive and dynamic view of workforce data, desig
 ![Home Page] https://github.com/AnvithaKarkera/HR-Analytics-Powerbi-Dashboard/blob/37658ee48b5f455d2838741e9989ad6ba29d729a/Screenshot%202025-05-25%20194935.png
 
 ### Performance Rating Segmentation  
-![Action page](images/performance_segmentation.png)
+![Action page]![image](https://github.com/user-attachments/assets/ac6deea4-5e0b-4aa8-a362-a95c82353982)
+
 
 ### Promotion & Retirement Identification  
 ![Detail page](images/promotion_retirement.png)
